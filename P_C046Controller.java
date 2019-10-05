@@ -1,10 +1,11 @@
-package com.controller;
+﻿package com.controller;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
 
+//C046
 public class PaizcC046Controller {
 	public static void main(String[] args) {
 		List<String> nameList = new ArrayList<>();
